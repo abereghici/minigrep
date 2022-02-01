@@ -1,1 +1,1 @@
-# minigrep.rs
+# minigrep
