@@ -1,3 +1,4 @@
 {
-  "cSpell.words": ["minigrep"]
+  "cSpell.words": ["minigrep"],
+  "svn.ignoreMissingSvnWarning": true
 }
